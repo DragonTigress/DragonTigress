@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Melanie Johnson
-- 👀 I’m interested in becoming a software engineer. 
+- 👀 I’m interested in developing software
 - 🌱 I’m currently impoving my skills in Python.
 - 💞️ I’m looking to collaborate on teams and developing software. 
 - 
