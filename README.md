@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Melanie Hernandez
+
 - 👀 I’m interested in developing software
 - 🌱 I’m currently impoving my skills in C#.
 - 💞️ I’m looking to collaborate on teams and developing software. 
